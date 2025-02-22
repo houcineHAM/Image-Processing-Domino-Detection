@@ -1,6 +1,3 @@
-Here is the **README.md** content that you can copy and paste:
-
-```markdown
 # Image Processing Domino Detection
 
 This project demonstrates various image processing techniques in MATLAB for detecting dominoes in images. The focus is on color-based object detection, edge detection, and the use of morphological operations to enhance detection accuracy.
@@ -26,7 +23,7 @@ You need to have MATLAB installed on your machine. The project uses built-in MAT
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/houcineHAM/Image-Processing-Domino-Detection.git
-   ```
+   
 2. Open the project folder in MATLAB.
 
 ### Running the Project
@@ -57,8 +54,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - MATLAB documentation for image processing functions.
 - Sobel edge detection algorithm for contour identification.
-```
-
-Copy the above content into your `README.md` file and save it.
-
-Let me know if you need any more help!
